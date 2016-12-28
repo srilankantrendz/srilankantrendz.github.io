@@ -1,4 +1,0 @@
-User-agent: * 
-Disallow: 
-
-sitemap:http://sltrendz.netlify.com/sitemap.xml 
