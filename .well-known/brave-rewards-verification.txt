@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: srilankantrendz.github.io
+Token: 0e2b52b7a9de6e599522f34c9418915f371973f2f2a0dc70de2f5cec0bc802fb
